@@ -1,0 +1,51 @@
+Instruction
+Pet Dog in Stanford 
+(click to skip)
+
+
+No undergraduate housing in campus 
+allows the students to keep their pet. 
+
+But by the great power of CS106A, 
+this program allows you to
+find your own personal pet dog 
+(dog with the size and color you want), 
+give it a name, and go back to your dorm 
+with your new pet dog. 
+
+Within the canvas, catch the dog 
+you want to keep as your pet by
+clicking on the dog you want. 
+
+If you don’t see any dog you want, 
+(1)
+TYPE the size (small or big) and
+TYPE the color (11 set colors) and 
+PRESS the ‘DESIGNED Dog’ button. 
+(2) 
+PRESS the ’New Dog’ button. 
+
+Keep in mind that you can only have
+maximum 15 dogs in your selection. 
+If you want to send all dogs away, 
+PRESS ‘All Away’ button. 
+
+Another few things to keep in mind: 
+1) the dogs are competing with each other! 
+They will eat each other up 
+if you choose too slowly. 
+2) The dogs may also go outside the canvas & 
+come back later. No worries :) 
+3) Once you choose your dog, you cannot 
+choose another dog! So be responsible 
+for your catch. 
+4) Try to keep your name & 
+the dog’s name short! 
+
+The rest is up to you to figure them out!
+ENJOY :) 
+
+
+
+
+
